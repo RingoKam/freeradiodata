@@ -1,0 +1,3714 @@
+[
+  {
+    "name": "Italian",
+    "iso_639": "it",
+    "stationcount": 1257,
+    "variations": [
+      "italian"
+    ]
+  },
+  {
+    "name": "Greek",
+    "iso_639": "el",
+    "stationcount": 1129,
+    "variations": [
+      "greek"
+    ]
+  },
+  {
+    "name": "Polish",
+    "iso_639": "pl",
+    "stationcount": 792,
+    "variations": [
+      "polish"
+    ]
+  },
+  {
+    "name": "Hindi",
+    "iso_639": "hi",
+    "stationcount": 536,
+    "variations": [
+      "hindi"
+    ]
+  },
+  {
+    "name": "English",
+    "iso_639": null,
+    "stationcount": 393,
+    "variations": [
+      "american english"
+    ]
+  },
+  {
+    "name": "Tamil",
+    "iso_639": "ta",
+    "stationcount": 382,
+    "variations": [
+      "tamil"
+    ]
+  },
+  {
+    "name": "Portuguese",
+    "iso_639": null,
+    "stationcount": 378,
+    "variations": [
+      "brazilian portuguese"
+    ]
+  },
+  {
+    "name": "Serbian",
+    "iso_639": "sr",
+    "stationcount": 288,
+    "variations": [
+      "serbian"
+    ]
+  },
+  {
+    "name": "Hungarian",
+    "iso_639": "hu",
+    "stationcount": 233,
+    "variations": [
+      "hungarian"
+    ]
+  },
+  {
+    "name": "Turkish",
+    "iso_639": "tr",
+    "stationcount": 208,
+    "variations": [
+      "turkish"
+    ]
+  },
+  {
+    "name": "Czech",
+    "iso_639": "cs",
+    "stationcount": 197,
+    "variations": [
+      "czech"
+    ]
+  },
+  {
+    "name": "Luganda",
+    "iso_639": null,
+    "stationcount": 177,
+    "variations": [
+      "luganda"
+    ]
+  },
+  {
+    "name": "Japanese",
+    "iso_639": "ja",
+    "stationcount": 174,
+    "variations": [
+      "japanese"
+    ]
+  },
+  {
+    "name": "Malayalam",
+    "iso_639": "ml",
+    "stationcount": 151,
+    "variations": [
+      "malayalam"
+    ]
+  },
+  {
+    "name": "Slovak",
+    "iso_639": "sk",
+    "stationcount": 139,
+    "variations": [
+      "slovak"
+    ]
+  },
+  {
+    "name": "Tagalog",
+    "iso_639": null,
+    "stationcount": 137,
+    "variations": [
+      "filipino"
+    ]
+  },
+  {
+    "name": "Catalan",
+    "iso_639": "ca",
+    "stationcount": 107,
+    "variations": [
+      "catalan"
+    ]
+  },
+  {
+    "name": "Bosnian",
+    "iso_639": "bs",
+    "stationcount": 104,
+    "variations": [
+      "bosnian"
+    ]
+  },
+  {
+    "name": "Chinese",
+    "iso_639": "yue",
+    "stationcount": 101,
+    "variations": [
+      "cantonese"
+    ]
+  },
+  {
+    "name": "Danish",
+    "iso_639": "da",
+    "stationcount": 101,
+    "variations": [
+      "danish"
+    ]
+  },
+  {
+    "name": "Indonesian",
+    "iso_639": null,
+    "stationcount": 87,
+    "variations": [
+      "bahasa indonesia"
+    ]
+  },
+  {
+    "name": "Korean",
+    "iso_639": "ko",
+    "stationcount": 83,
+    "variations": [
+      "korean"
+    ]
+  },
+  {
+    "name": "Slovenian",
+    "iso_639": "sl",
+    "stationcount": 80,
+    "variations": [
+      "slovenian"
+    ]
+  },
+  {
+    "name": "Espanish",
+    "iso_639": null,
+    "stationcount": 73,
+    "variations": [
+      "espanish"
+    ]
+  },
+  {
+    "name": "Thai",
+    "iso_639": "th",
+    "stationcount": 65,
+    "variations": [
+      "thai"
+    ]
+  },
+  {
+    "name": "Swiss german",
+    "iso_639": "gsw",
+    "stationcount": 55,
+    "variations": [
+      "swiss german"
+    ]
+  },
+  {
+    "name": "Urdu",
+    "iso_639": "ur",
+    "stationcount": 51,
+    "variations": [
+      "urdu"
+    ]
+  },
+  {
+    "name": "Latvian",
+    "iso_639": "lv",
+    "stationcount": 50,
+    "variations": [
+      "latvian"
+    ]
+  },
+  {
+    "name": "Lithuanian",
+    "iso_639": "lt",
+    "stationcount": 43,
+    "variations": [
+      "lithuanian"
+    ]
+  },
+  {
+    "name": "Macedonian",
+    "iso_639": "mk",
+    "stationcount": 40,
+    "variations": [
+      "macedonian"
+    ]
+  },
+  {
+    "name": "Sinhala",
+    "iso_639": "si",
+    "stationcount": 38,
+    "variations": [
+      "sinhala"
+    ]
+  },
+  {
+    "name": "French",
+    "iso_639": null,
+    "stationcount": 35,
+    "variations": [
+      "francaise"
+    ]
+  },
+  {
+    "name": "Kannada",
+    "iso_639": "kn",
+    "stationcount": 35,
+    "variations": [
+      "kannada"
+    ]
+  },
+  {
+    "name": "German",
+    "iso_639": null,
+    "stationcount": 34,
+    "variations": [
+      "deu"
+    ]
+  },
+  {
+    "name": "Kazakh",
+    "iso_639": "kk",
+    "stationcount": 32,
+    "variations": [
+      "kazakh"
+    ]
+  },
+  {
+    "name": "Belarusian",
+    "iso_639": "be",
+    "stationcount": 29,
+    "variations": [
+      "belarusian"
+    ]
+  },
+  {
+    "name": "Georgian",
+    "iso_639": "ka",
+    "stationcount": 29,
+    "variations": [
+      "georgian"
+    ]
+  },
+  {
+    "name": "Azerbaijani",
+    "iso_639": "az",
+    "stationcount": 28,
+    "variations": [
+      "azerbaijani"
+    ]
+  },
+  {
+    "name": "Romania",
+    "iso_639": null,
+    "stationcount": 27,
+    "variations": [
+      "romania"
+    ]
+  },
+  {
+    "name": "Afrikaans",
+    "iso_639": "af",
+    "stationcount": 26,
+    "variations": [
+      "afrikaans"
+    ]
+  },
+  {
+    "name": "English/russian",
+    "iso_639": null,
+    "stationcount": 26,
+    "variations": [
+      "english/russian"
+    ]
+  },
+  {
+    "name": "Amharic",
+    "iso_639": "am",
+    "stationcount": 25,
+    "variations": [
+      "amharic"
+    ]
+  },
+  {
+    "name": "Montenegro",
+    "iso_639": null,
+    "stationcount": 25,
+    "variations": [
+      "montenegro"
+    ]
+  },
+  {
+    "name": "Asunción",
+    "iso_639": null,
+    "stationcount": 22,
+    "variations": [
+      "asunción"
+    ]
+  },
+  {
+    "name": "Bengali",
+    "iso_639": null,
+    "stationcount": 22,
+    "variations": [
+      "bangla"
+    ]
+  },
+  {
+    "name": "Luganda english",
+    "iso_639": null,
+    "stationcount": 22,
+    "variations": [
+      "luganda english"
+    ]
+  },
+  {
+    "name": "Galician",
+    "iso_639": "gl",
+    "stationcount": 21,
+    "variations": [
+      "galician"
+    ]
+  },
+  {
+    "name": "Haitian creole",
+    "iso_639": null,
+    "stationcount": 20,
+    "variations": [
+      "haitian creole"
+    ]
+  },
+  {
+    "name": "Nepali",
+    "iso_639": "ne",
+    "stationcount": 19,
+    "variations": [
+      "nepali"
+    ]
+  },
+  {
+    "name": "Vietnamese",
+    "iso_639": "vi",
+    "stationcount": 19,
+    "variations": [
+      "vietnamese"
+    ]
+  },
+  {
+    "name": "Albanian",
+    "iso_639": "sq",
+    "stationcount": 18,
+    "variations": [
+      "albanian"
+    ]
+  },
+  {
+    "name": "Flemish",
+    "iso_639": null,
+    "stationcount": 18,
+    "variations": [
+      "flemish"
+    ]
+  },
+  {
+    "name": "Javanese",
+    "iso_639": "jv",
+    "stationcount": 18,
+    "variations": [
+      "javanese"
+    ]
+  },
+  {
+    "name": "Icelandic",
+    "iso_639": "is",
+    "stationcount": 17,
+    "variations": [
+      "icelandic"
+    ]
+  },
+  {
+    "name": "Latin",
+    "iso_639": "la",
+    "stationcount": 17,
+    "variations": [
+      "latin"
+    ]
+  },
+  {
+    "name": "Low german",
+    "iso_639": "nds",
+    "stationcount": 17,
+    "variations": [
+      "low german"
+    ]
+  },
+  {
+    "name": "Telugu",
+    "iso_639": "te",
+    "stationcount": 17,
+    "variations": [
+      "telugu"
+    ]
+  },
+  {
+    "name": "Willemstad",
+    "iso_639": null,
+    "stationcount": 17,
+    "variations": [
+      "willemstad"
+    ]
+  },
+  {
+    "name": "Bhojpuri",
+    "iso_639": null,
+    "stationcount": 16,
+    "variations": [
+      "bhojpuri"
+    ]
+  },
+  {
+    "name": "Basque",
+    "iso_639": "eu",
+    "stationcount": 14,
+    "variations": [
+      "basque"
+    ]
+  },
+  {
+    "name": "Mongolian",
+    "iso_639": "mn",
+    "stationcount": 13,
+    "variations": [
+      "mongolian"
+    ]
+  },
+  {
+    "name": "Norwegian",
+    "iso_639": null,
+    "stationcount": 13,
+    "variations": [
+      "norsk"
+    ]
+  },
+  {
+    "name": "Swahili",
+    "iso_639": null,
+    "stationcount": 12,
+    "variations": [
+      "kiswahili"
+    ]
+  },
+  {
+    "name": "Marathi",
+    "iso_639": "mr",
+    "stationcount": 12,
+    "variations": [
+      "marathi"
+    ]
+  },
+  {
+    "name": "Odia",
+    "iso_639": null,
+    "stationcount": 12,
+    "variations": [
+      "odia"
+    ]
+  },
+  {
+    "name": "Bambara",
+    "iso_639": "bm",
+    "stationcount": 11,
+    "variations": [
+      "bambara"
+    ]
+  },
+  {
+    "name": "Creole",
+    "iso_639": null,
+    "stationcount": 11,
+    "variations": [
+      "creole"
+    ]
+  },
+  {
+    "name": "Galego",
+    "iso_639": null,
+    "stationcount": 11,
+    "variations": [
+      "galego"
+    ]
+  },
+  {
+    "name": "Inglés/portugués/español",
+    "iso_639": null,
+    "stationcount": 11,
+    "variations": [
+      "inglés/portugués/español"
+    ]
+  },
+  {
+    "name": "Luxembourgish",
+    "iso_639": "lb",
+    "stationcount": 11,
+    "variations": [
+      "luxembourgish"
+    ]
+  },
+  {
+    "name": "Montenegrin",
+    "iso_639": null,
+    "stationcount": 11,
+    "variations": [
+      "montenegrin"
+    ]
+  },
+  {
+    "name": "Sint maarten",
+    "iso_639": null,
+    "stationcount": 11,
+    "variations": [
+      "sint maarten"
+    ]
+  },
+  {
+    "name": "Spain",
+    "iso_639": null,
+    "stationcount": 11,
+    "variations": [
+      "spain"
+    ]
+  },
+  {
+    "name": "Ру",
+    "iso_639": null,
+    "stationcount": 11,
+    "variations": [
+      "ру"
+    ]
+  },
+  {
+    "name": "Cebuano",
+    "iso_639": null,
+    "stationcount": 10,
+    "variations": [
+      "cebuano"
+    ]
+  },
+  {
+    "name": "Uyghur",
+    "iso_639": null,
+    "stationcount": 10,
+    "variations": [
+      "uyghur"
+    ]
+  },
+  {
+    "name": "English/ españa/ russian /francia /italia",
+    "iso_639": null,
+    "stationcount": 9,
+    "variations": [
+      "english/ españa/ russian /francia /italia"
+    ]
+  },
+  {
+    "name": "Fulani",
+    "iso_639": null,
+    "stationcount": 9,
+    "variations": [
+      "fulani"
+    ]
+  },
+  {
+    "name": "Lusoga",
+    "iso_639": null,
+    "stationcount": 9,
+    "variations": [
+      "lusoga"
+    ]
+  },
+  {
+    "name": "Tatar",
+    "iso_639": "tt",
+    "stationcount": 9,
+    "variations": [
+      "tatar"
+    ]
+  },
+  {
+    "name": "Te reo maori",
+    "iso_639": null,
+    "stationcount": 9,
+    "variations": [
+      "te reo maori"
+    ]
+  },
+  {
+    "name": "Tunisian",
+    "iso_639": null,
+    "stationcount": 9,
+    "variations": [
+      "tunisian"
+    ]
+  },
+  {
+    "name": "Brasil",
+    "iso_639": null,
+    "stationcount": 8,
+    "variations": [
+      "brasil"
+    ]
+  },
+  {
+    "name": "Hausa",
+    "iso_639": "ha",
+    "stationcount": 8,
+    "variations": [
+      "hausa"
+    ]
+  },
+  {
+    "name": "Ilocano",
+    "iso_639": null,
+    "stationcount": 8,
+    "variations": [
+      "ilocano"
+    ]
+  },
+  {
+    "name": "Indian",
+    "iso_639": null,
+    "stationcount": 8,
+    "variations": [
+      "indian"
+    ]
+  },
+  {
+    "name": "Irish",
+    "iso_639": "ga",
+    "stationcount": 8,
+    "variations": [
+      "irish"
+    ]
+  },
+  {
+    "name": "Papiamentu",
+    "iso_639": null,
+    "stationcount": 8,
+    "variations": [
+      "papiamentu"
+    ]
+  },
+  {
+    "name": "Sorbian",
+    "iso_639": null,
+    "stationcount": 8,
+    "variations": [
+      "sorbian"
+    ]
+  },
+  {
+    "name": "Estonia",
+    "iso_639": null,
+    "stationcount": 7,
+    "variations": [
+      "estonia"
+    ]
+  },
+  {
+    "name": "Flammish",
+    "iso_639": null,
+    "stationcount": 7,
+    "variations": [
+      "flammish"
+    ]
+  },
+  {
+    "name": "Hawaiian",
+    "iso_639": null,
+    "stationcount": 7,
+    "variations": [
+      "hawaiian"
+    ]
+  },
+  {
+    "name": "Kurdish",
+    "iso_639": null,
+    "stationcount": 7,
+    "variations": [
+      "kurdi"
+    ]
+  },
+  {
+    "name": "Lumasaba luganda english",
+    "iso_639": null,
+    "stationcount": 7,
+    "variations": [
+      "lumasaba luganda english"
+    ]
+  },
+  {
+    "name": "Shqip",
+    "iso_639": null,
+    "stationcount": 7,
+    "variations": [
+      "shqip"
+    ]
+  },
+  {
+    "name": "Tibetan",
+    "iso_639": "bo",
+    "stationcount": 7,
+    "variations": [
+      "tibetan"
+    ]
+  },
+  {
+    "name": "Uzbek",
+    "iso_639": "uz",
+    "stationcount": 7,
+    "variations": [
+      "uzbek"
+    ]
+  },
+  {
+    "name": "#spanish",
+    "iso_639": null,
+    "stationcount": 6,
+    "variations": [
+      "#spanish"
+    ]
+  },
+  {
+    "name": "Armenian",
+    "iso_639": "hy",
+    "stationcount": 6,
+    "variations": [
+      "armenian"
+    ]
+  },
+  {
+    "name": "Bashkir",
+    "iso_639": "ba",
+    "stationcount": 6,
+    "variations": [
+      "bashkir"
+    ]
+  },
+  {
+    "name": "Breton",
+    "iso_639": "br",
+    "stationcount": 6,
+    "variations": [
+      "breton"
+    ]
+  },
+  {
+    "name": "Burmese",
+    "iso_639": "my",
+    "stationcount": 6,
+    "variations": [
+      "burmese"
+    ]
+  },
+  {
+    "name": "Croatian",
+    "iso_639": null,
+    "stationcount": 6,
+    "variations": [
+      "croatia"
+    ]
+  },
+  {
+    "name": "Gaelic",
+    "iso_639": "gd",
+    "stationcount": 6,
+    "variations": [
+      "gaelic"
+    ]
+  },
+  {
+    "name": "Ingles español",
+    "iso_639": null,
+    "stationcount": 6,
+    "variations": [
+      "ingles español"
+    ]
+  },
+  {
+    "name": "Kapampangan",
+    "iso_639": null,
+    "stationcount": 6,
+    "variations": [
+      "kapampangan"
+    ]
+  },
+  {
+    "name": "Shqip macedonia",
+    "iso_639": null,
+    "stationcount": 6,
+    "variations": [
+      "shqip macedonia"
+    ]
+  },
+  {
+    "name": "Tamazight",
+    "iso_639": null,
+    "stationcount": 6,
+    "variations": [
+      "tamazight"
+    ]
+  },
+  {
+    "name": "Arabic",
+    "iso_639": null,
+    "stationcount": 5,
+    "variations": [
+      "arabesk"
+    ]
+  },
+  {
+    "name": "Arabic.",
+    "iso_639": null,
+    "stationcount": 5,
+    "variations": [
+      "arabic."
+    ]
+  },
+  {
+    "name": "Assamese",
+    "iso_639": "as",
+    "stationcount": 5,
+    "variations": [
+      "assamese"
+    ]
+  },
+  {
+    "name": "Chhattisgarhi",
+    "iso_639": null,
+    "stationcount": 5,
+    "variations": [
+      "chhattisgarhi"
+    ]
+  },
+  {
+    "name": "English/tagalog",
+    "iso_639": null,
+    "stationcount": 5,
+    "variations": [
+      "english/tagalog"
+    ]
+  },
+  {
+    "name": "Euskera",
+    "iso_639": null,
+    "stationcount": 5,
+    "variations": [
+      "euskera"
+    ]
+  },
+  {
+    "name": "Faroese",
+    "iso_639": "fo",
+    "stationcount": 5,
+    "variations": [
+      "faroese"
+    ]
+  },
+  {
+    "name": "Global",
+    "iso_639": null,
+    "stationcount": 5,
+    "variations": [
+      "global"
+    ]
+  },
+  {
+    "name": "Zulu",
+    "iso_639": null,
+    "stationcount": 5,
+    "variations": [
+      "isizulu"
+    ]
+  },
+  {
+    "name": "Kyrgyz",
+    "iso_639": null,
+    "stationcount": 5,
+    "variations": [
+      "kyrgyz"
+    ]
+  },
+  {
+    "name": "Malagasy",
+    "iso_639": "mg",
+    "stationcount": 5,
+    "variations": [
+      "malagasy"
+    ]
+  },
+  {
+    "name": "Romani",
+    "iso_639": null,
+    "stationcount": 5,
+    "variations": [
+      "romani"
+    ]
+  },
+  {
+    "name": "Sami",
+    "iso_639": null,
+    "stationcount": 5,
+    "variations": [
+      "sami"
+    ]
+  },
+  {
+    "name": "Setswana",
+    "iso_639": null,
+    "stationcount": 5,
+    "variations": [
+      "setswana"
+    ]
+  },
+  {
+    "name": "Urdu/punjabi/seraiki",
+    "iso_639": null,
+    "stationcount": 5,
+    "variations": [
+      "urdu/punjabi/seraiki"
+    ]
+  },
+  {
+    "name": "Yiddish",
+    "iso_639": "yi",
+    "stationcount": 5,
+    "variations": [
+      "yiddish"
+    ]
+  },
+  {
+    "name": "Yoruba",
+    "iso_639": "yo",
+    "stationcount": 5,
+    "variations": [
+      "yoruba"
+    ]
+  },
+  {
+    "name": "Aymara",
+    "iso_639": "ay",
+    "stationcount": 4,
+    "variations": [
+      "aymara"
+    ]
+  },
+  {
+    "name": "Carpatho-rusyn",
+    "iso_639": null,
+    "stationcount": 4,
+    "variations": [
+      "carpatho-rusyn"
+    ]
+  },
+  {
+    "name": "English hindi",
+    "iso_639": null,
+    "stationcount": 4,
+    "variations": [
+      "english hindi"
+    ]
+  },
+  {
+    "name": "English/ russian /francia /españa",
+    "iso_639": null,
+    "stationcount": 4,
+    "variations": [
+      "english/ russian /francia /españa"
+    ]
+  },
+  {
+    "name": "Español asunción",
+    "iso_639": null,
+    "stationcount": 4,
+    "variations": [
+      "español asunción"
+    ]
+  },
+  {
+    "name": "Guarani",
+    "iso_639": "gn",
+    "stationcount": 4,
+    "variations": [
+      "guarani"
+    ]
+  },
+  {
+    "name": "Maltese",
+    "iso_639": "mt",
+    "stationcount": 4,
+    "variations": [
+      "maltese"
+    ]
+  },
+  {
+    "name": "Occitan",
+    "iso_639": "oc",
+    "stationcount": 4,
+    "variations": [
+      "occitan"
+    ]
+  },
+  {
+    "name": "Online radio",
+    "iso_639": null,
+    "stationcount": 4,
+    "variations": [
+      "online radio"
+    ]
+  },
+  {
+    "name": "Pashto",
+    "iso_639": null,
+    "stationcount": 4,
+    "variations": [
+      "pashto"
+    ]
+  },
+  {
+    "name": "Quechua",
+    "iso_639": "qu",
+    "stationcount": 4,
+    "variations": [
+      "quechua"
+    ]
+  },
+  {
+    "name": "Sepedi",
+    "iso_639": null,
+    "stationcount": 4,
+    "variations": [
+      "sepedi"
+    ]
+  },
+  {
+    "name": "Welsh",
+    "iso_639": "cy",
+    "stationcount": 4,
+    "variations": [
+      "welsh"
+    ]
+  },
+  {
+    "name": "Xitsonga",
+    "iso_639": null,
+    "stationcount": 4,
+    "variations": [
+      "xitsonga"
+    ]
+  },
+  {
+    "name": "Yucatec maya",
+    "iso_639": null,
+    "stationcount": 4,
+    "variations": [
+      "yucatec maya"
+    ]
+  },
+  {
+    "name": "#english",
+    "iso_639": null,
+    "stationcount": 3,
+    "variations": [
+      "#english"
+    ]
+  },
+  {
+    "name": "Aboriginal languages",
+    "iso_639": null,
+    "stationcount": 3,
+    "variations": [
+      "aboriginal languages"
+    ]
+  },
+  {
+    "name": "Africa",
+    "iso_639": null,
+    "stationcount": 3,
+    "variations": [
+      "africa"
+    ]
+  },
+  {
+    "name": "Akan",
+    "iso_639": "ak",
+    "stationcount": 3,
+    "variations": [
+      "akan"
+    ]
+  },
+  {
+    "name": "Ancient greek",
+    "iso_639": null,
+    "stationcount": 3,
+    "variations": [
+      "ancient greek"
+    ]
+  },
+  {
+    "name": "Asturian",
+    "iso_639": "ast",
+    "stationcount": 3,
+    "variations": [
+      "asturian"
+    ]
+  },
+  {
+    "name": "Bahasa jawa",
+    "iso_639": null,
+    "stationcount": 3,
+    "variations": [
+      "bahasa jawa"
+    ]
+  },
+  {
+    "name": "Bahasa sunda",
+    "iso_639": null,
+    "stationcount": 3,
+    "variations": [
+      "bahasa sunda"
+    ]
+  },
+  {
+    "name": "Dutch",
+    "iso_639": null,
+    "stationcount": 3,
+    "variations": [
+      "belge"
+    ]
+  },
+  {
+    "name": "Bisaya",
+    "iso_639": null,
+    "stationcount": 3,
+    "variations": [
+      "bisaya"
+    ]
+  },
+  {
+    "name": "Cree",
+    "iso_639": "cr",
+    "stationcount": 3,
+    "variations": [
+      "cree"
+    ]
+  },
+  {
+    "name": "Dai language",
+    "iso_639": null,
+    "stationcount": 3,
+    "variations": [
+      "dai language"
+    ]
+  },
+  {
+    "name": "Fijian",
+    "iso_639": "fj",
+    "stationcount": 3,
+    "variations": [
+      "fijian"
+    ]
+  },
+  {
+    "name": "Frenchhttps://rfiswahili96k.ice.infomaniak.ch/rfis",
+    "iso_639": null,
+    "stationcount": 3,
+    "variations": [
+      "frenchhttps://rfiswahili96k.ice.infomaniak.ch/rfis"
+    ]
+  },
+  {
+    "name": "Gagauz",
+    "iso_639": null,
+    "stationcount": 3,
+    "variations": [
+      "gagauz"
+    ]
+  },
+  {
+    "name": "Ger",
+    "iso_639": null,
+    "stationcount": 3,
+    "variations": [
+      "ger"
+    ]
+  },
+  {
+    "name": "Gujarati",
+    "iso_639": "gu",
+    "stationcount": 3,
+    "variations": [
+      "gujarati"
+    ]
+  },
+  {
+    "name": "Haryanvi",
+    "iso_639": null,
+    "stationcount": 3,
+    "variations": [
+      "haryanvi"
+    ]
+  },
+  {
+    "name": "Jawa",
+    "iso_639": null,
+    "stationcount": 3,
+    "variations": [
+      "jawa"
+    ]
+  },
+  {
+    "name": "Khmer",
+    "iso_639": "km",
+    "stationcount": 3,
+    "variations": [
+      "khmer"
+    ]
+  },
+  {
+    "name": "Latino",
+    "iso_639": null,
+    "stationcount": 3,
+    "variations": [
+      "latino"
+    ]
+  },
+  {
+    "name": "Lingala",
+    "iso_639": "ln",
+    "stationcount": 3,
+    "variations": [
+      "lingala"
+    ]
+  },
+  {
+    "name": "Malti",
+    "iso_639": null,
+    "stationcount": 3,
+    "variations": [
+      "malti"
+    ]
+  },
+  {
+    "name": "Nahuatl",
+    "iso_639": null,
+    "stationcount": 3,
+    "variations": [
+      "nahuatl"
+    ]
+  },
+  {
+    "name": "Oromo",
+    "iso_639": "om",
+    "stationcount": 3,
+    "variations": [
+      "oromo"
+    ]
+  },
+  {
+    "name": "Portugues francês",
+    "iso_639": null,
+    "stationcount": 3,
+    "variations": [
+      "portugues francês"
+    ]
+  },
+  {
+    "name": "Romansh",
+    "iso_639": "rm",
+    "stationcount": 3,
+    "variations": [
+      "romansh"
+    ]
+  },
+  {
+    "name": "Russian",
+    "iso_639": null,
+    "stationcount": 3,
+    "variations": [
+      "rossia"
+    ]
+  },
+  {
+    "name": "Samoan",
+    "iso_639": "sm",
+    "stationcount": 3,
+    "variations": [
+      "samoan"
+    ]
+  },
+  {
+    "name": "San salvador",
+    "iso_639": null,
+    "stationcount": 3,
+    "variations": [
+      "san salvador"
+    ]
+  },
+  {
+    "name": "Sesotho",
+    "iso_639": null,
+    "stationcount": 3,
+    "variations": [
+      "sesotho"
+    ]
+  },
+  {
+    "name": "Sindhi",
+    "iso_639": "sd",
+    "stationcount": 3,
+    "variations": [
+      "sindhi"
+    ]
+  },
+  {
+    "name": "Somali",
+    "iso_639": "so",
+    "stationcount": 3,
+    "variations": [
+      "somali"
+    ]
+  },
+  {
+    "name": "Sunda",
+    "iso_639": null,
+    "stationcount": 3,
+    "variations": [
+      "sunda"
+    ]
+  },
+  {
+    "name": "Te reo",
+    "iso_639": null,
+    "stationcount": 3,
+    "variations": [
+      "te reo"
+    ]
+  },
+  {
+    "name": "Tigrigna",
+    "iso_639": null,
+    "stationcount": 3,
+    "variations": [
+      "tigrigna"
+    ]
+  },
+  {
+    "name": "Turkmen",
+    "iso_639": "tk",
+    "stationcount": 3,
+    "variations": [
+      "turkmen"
+    ]
+  },
+  {
+    "name": "Wolof",
+    "iso_639": "wo",
+    "stationcount": 3,
+    "variations": [
+      "wolof"
+    ]
+  },
+  {
+    "name": "Yugoslavian",
+    "iso_639": null,
+    "stationcount": 3,
+    "variations": [
+      "yugoslavian"
+    ]
+  },
+  {
+    "name": "#japan",
+    "iso_639": null,
+    "stationcount": 2,
+    "variations": [
+      "#japan"
+    ]
+  },
+  {
+    "name": "+7 languages",
+    "iso_639": null,
+    "stationcount": 2,
+    "variations": [
+      "+7 languages"
+    ]
+  },
+  {
+    "name": "1",
+    "iso_639": null,
+    "stationcount": 2,
+    "variations": [
+      "1"
+    ]
+  },
+  {
+    "name": "128 brazilian portuguese",
+    "iso_639": null,
+    "stationcount": 2,
+    "variations": [
+      "128 brazilian portuguese"
+    ]
+  },
+  {
+    "name": "Music",
+    "iso_639": null,
+    "stationcount": 2,
+    "variations": [
+      "80s"
+    ]
+  },
+  {
+    "name": "African",
+    "iso_639": null,
+    "stationcount": 2,
+    "variations": [
+      "african"
+    ]
+  },
+  {
+    "name": "Aka bo",
+    "iso_639": null,
+    "stationcount": 2,
+    "variations": [
+      "aka bo"
+    ]
+  },
+  {
+    "name": "Anguilla",
+    "iso_639": null,
+    "stationcount": 2,
+    "variations": [
+      "anguilla"
+    ]
+  },
+  {
+    "name": "Azeri",
+    "iso_639": null,
+    "stationcount": 2,
+    "variations": [
+      "azeri"
+    ]
+  },
+  {
+    "name": "Bavarian",
+    "iso_639": "bar",
+    "stationcount": 2,
+    "variations": [
+      "bavarian"
+    ]
+  },
+  {
+    "name": "Berbere",
+    "iso_639": null,
+    "stationcount": 2,
+    "variations": [
+      "berbere"
+    ]
+  },
+  {
+    "name": "Bicolano",
+    "iso_639": null,
+    "stationcount": 2,
+    "variations": [
+      "bicolano"
+    ]
+  },
+  {
+    "name": "Bihari",
+    "iso_639": null,
+    "stationcount": 2,
+    "variations": [
+      "bihari"
+    ]
+  },
+  {
+    "name": "Bislama",
+    "iso_639": "bi",
+    "stationcount": 2,
+    "variations": [
+      "bislama"
+    ]
+  },
+  {
+    "name": "Bonaire",
+    "iso_639": null,
+    "stationcount": 2,
+    "variations": [
+      "bonaire"
+    ]
+  },
+  {
+    "name": "Brezhoneg",
+    "iso_639": null,
+    "stationcount": 2,
+    "variations": [
+      "brezhoneg"
+    ]
+  },
+  {
+    "name": "Canadian",
+    "iso_639": null,
+    "stationcount": 2,
+    "variations": [
+      "canadian"
+    ]
+  },
+  {
+    "name": "Colombo",
+    "iso_639": null,
+    "stationcount": 2,
+    "variations": [
+      "colombo"
+    ]
+  },
+  {
+    "name": "Dan",
+    "iso_639": null,
+    "stationcount": 2,
+    "variations": [
+      "dan"
+    ]
+  },
+  {
+    "name": "E",
+    "iso_639": null,
+    "stationcount": 2,
+    "variations": [
+      "e"
+    ]
+  },
+  {
+    "name": "English russian",
+    "iso_639": null,
+    "stationcount": 2,
+    "variations": [
+      "english russian"
+    ]
+  },
+  {
+    "name": "English spanish",
+    "iso_639": null,
+    "stationcount": 2,
+    "variations": [
+      "english spanish"
+    ]
+  },
+  {
+    "name": "English/sotho/afrikaans",
+    "iso_639": null,
+    "stationcount": 2,
+    "variations": [
+      "english/sotho/afrikaans"
+    ]
+  },
+  {
+    "name": "Espana",
+    "iso_639": null,
+    "stationcount": 2,
+    "variations": [
+      "espana"
+    ]
+  },
+  {
+    "name": "Español ingles",
+    "iso_639": null,
+    "stationcount": 2,
+    "variations": [
+      "español ingles"
+    ]
+  },
+  {
+    "name": "Esperanto",
+    "iso_639": "eo",
+    "stationcount": 2,
+    "variations": [
+      "esperanto"
+    ]
+  },
+  {
+    "name": "Fge spain",
+    "iso_639": null,
+    "stationcount": 2,
+    "variations": [
+      "fge spain"
+    ]
+  },
+  {
+    "name": "Fijian hindi",
+    "iso_639": null,
+    "stationcount": 2,
+    "variations": [
+      "fijian hindi"
+    ]
+  },
+  {
+    "name": "Finnish",
+    "iso_639": null,
+    "stationcount": 2,
+    "variations": [
+      "finish"
+    ]
+  },
+  {
+    "name": "Fries",
+    "iso_639": null,
+    "stationcount": 2,
+    "variations": [
+      "fries"
+    ]
+  },
+  {
+    "name": "Gaeilge",
+    "iso_639": null,
+    "stationcount": 2,
+    "variations": [
+      "gaeilge"
+    ]
+  },
+  {
+    "name": "Gallo",
+    "iso_639": null,
+    "stationcount": 2,
+    "variations": [
+      "gallo"
+    ]
+  },
+  {
+    "name": "Hani language",
+    "iso_639": null,
+    "stationcount": 2,
+    "variations": [
+      "hani language"
+    ]
+  },
+  {
+    "name": "Hassaniya",
+    "iso_639": null,
+    "stationcount": 2,
+    "variations": [
+      "hassaniya"
+    ]
+  },
+  {
+    "name": "Hiligaynon",
+    "iso_639": null,
+    "stationcount": 2,
+    "variations": [
+      "hiligaynon"
+    ]
+  },
+  {
+    "name": "Http://stream-uk1.radioparadise.com:80/aac-32",
+    "iso_639": null,
+    "stationcount": 2,
+    "variations": [
+      "http://stream-uk1.radioparadise.com:80/aac-32"
+    ]
+  },
+  {
+    "name": "Igbo",
+    "iso_639": null,
+    "stationcount": 2,
+    "variations": [
+      "ibo"
+    ]
+  },
+  {
+    "name": "Indigenous languages",
+    "iso_639": null,
+    "stationcount": 2,
+    "variations": [
+      "indigenous languages"
+    ]
+  },
+  {
+    "name": "Persian",
+    "iso_639": null,
+    "stationcount": 2,
+    "variations": [
+      "iran"
+    ]
+  },
+  {
+    "name": "Jamaican",
+    "iso_639": null,
+    "stationcount": 2,
+    "variations": [
+      "jamaican"
+    ]
+  },
+  {
+    "name": "Java",
+    "iso_639": null,
+    "stationcount": 2,
+    "variations": [
+      "java"
+    ]
+  },
+  {
+    "name": "Kabyle",
+    "iso_639": null,
+    "stationcount": 2,
+    "variations": [
+      "kabyle"
+    ]
+  },
+  {
+    "name": "Kashubian",
+    "iso_639": null,
+    "stationcount": 2,
+    "variations": [
+      "kashubian"
+    ]
+  },
+  {
+    "name": "Konkani",
+    "iso_639": null,
+    "stationcount": 2,
+    "variations": [
+      "konkani"
+    ]
+  },
+  {
+    "name": "Ladino",
+    "iso_639": null,
+    "stationcount": 2,
+    "variations": [
+      "ladino"
+    ]
+  },
+  {
+    "name": "Latinoamerica",
+    "iso_639": null,
+    "stationcount": 2,
+    "variations": [
+      "latinoamerica"
+    ]
+  },
+  {
+    "name": "Lebanese",
+    "iso_639": null,
+    "stationcount": 2,
+    "variations": [
+      "lebanese"
+    ]
+  },
+  {
+    "name": "Lower sorbian",
+    "iso_639": "dsb",
+    "stationcount": 2,
+    "variations": [
+      "lower sorbian"
+    ]
+  },
+  {
+    "name": "Lugwere",
+    "iso_639": null,
+    "stationcount": 2,
+    "variations": [
+      "lugwere"
+    ]
+  },
+  {
+    "name": "Luhya",
+    "iso_639": null,
+    "stationcount": 2,
+    "variations": [
+      "luhya"
+    ]
+  },
+  {
+    "name": "Malgache",
+    "iso_639": null,
+    "stationcount": 2,
+    "variations": [
+      "malgache"
+    ]
+  },
+  {
+    "name": "Mexicano",
+    "iso_639": null,
+    "stationcount": 2,
+    "variations": [
+      "mexicano"
+    ]
+  },
+  {
+    "name": "Romanian",
+    "iso_639": null,
+    "stationcount": 2,
+    "variations": [
+      "moldovan"
+    ]
+  },
+  {
+    "name": "Multiculti",
+    "iso_639": null,
+    "stationcount": 2,
+    "variations": [
+      "multiculti"
+    ]
+  },
+  {
+    "name": "Novokuznetzk",
+    "iso_639": null,
+    "stationcount": 2,
+    "variations": [
+      "novokuznetzk"
+    ]
+  },
+  {
+    "name": "Ossetian",
+    "iso_639": "os",
+    "stationcount": 2,
+    "variations": [
+      "ossetian"
+    ]
+  },
+  {
+    "name": "Others",
+    "iso_639": null,
+    "stationcount": 2,
+    "variations": [
+      "others"
+    ]
+  },
+  {
+    "name": "Pacific",
+    "iso_639": null,
+    "stationcount": 2,
+    "variations": [
+      "pacific"
+    ]
+  },
+  {
+    "name": "Palestinian",
+    "iso_639": null,
+    "stationcount": 2,
+    "variations": [
+      "palestinian"
+    ]
+  },
+  {
+    "name": "Pedro juan caballero",
+    "iso_639": null,
+    "stationcount": 2,
+    "variations": [
+      "pedro juan caballero"
+    ]
+  },
+  {
+    "name": "Roma",
+    "iso_639": null,
+    "stationcount": 2,
+    "variations": [
+      "roma"
+    ]
+  },
+  {
+    "name": "Romany",
+    "iso_639": null,
+    "stationcount": 2,
+    "variations": [
+      "romany"
+    ]
+  },
+  {
+    "name": "Runyakitara",
+    "iso_639": null,
+    "stationcount": 2,
+    "variations": [
+      "runyakitara"
+    ]
+  },
+  {
+    "name": "Sanskrit",
+    "iso_639": "sa",
+    "stationcount": 2,
+    "variations": [
+      "sanskrit"
+    ]
+  },
+  {
+    "name": "Sardinian",
+    "iso_639": "sc",
+    "stationcount": 2,
+    "variations": [
+      "sardinian"
+    ]
+  },
+  {
+    "name": "Siswati",
+    "iso_639": null,
+    "stationcount": 2,
+    "variations": [
+      "siswati"
+    ]
+  },
+  {
+    "name": "Soninke",
+    "iso_639": null,
+    "stationcount": 2,
+    "variations": [
+      "soninke"
+    ]
+  },
+  {
+    "name": "Sranan tongo",
+    "iso_639": null,
+    "stationcount": 2,
+    "variations": [
+      "sranan tongo"
+    ]
+  },
+  {
+    "name": "Swahili/",
+    "iso_639": null,
+    "stationcount": 2,
+    "variations": [
+      "swahili/"
+    ]
+  },
+  {
+    "name": "Tajik",
+    "iso_639": "tg",
+    "stationcount": 2,
+    "variations": [
+      "tajik"
+    ]
+  },
+  {
+    "name": "Tamaulipas",
+    "iso_639": null,
+    "stationcount": 2,
+    "variations": [
+      "tamaulipas"
+    ]
+  },
+  {
+    "name": "Tigre",
+    "iso_639": null,
+    "stationcount": 2,
+    "variations": [
+      "tigre"
+    ]
+  },
+  {
+    "name": "Torres strait creole",
+    "iso_639": null,
+    "stationcount": 2,
+    "variations": [
+      "torres strait creole"
+    ]
+  },
+  {
+    "name": "Tr",
+    "iso_639": null,
+    "stationcount": 2,
+    "variations": [
+      "tr"
+    ]
+  },
+  {
+    "name": "Tshivenda",
+    "iso_639": null,
+    "stationcount": 2,
+    "variations": [
+      "tshivenda"
+    ]
+  },
+  {
+    "name": "Twi",
+    "iso_639": "tw",
+    "stationcount": 2,
+    "variations": [
+      "twi"
+    ]
+  },
+  {
+    "name": "Ua",
+    "iso_639": null,
+    "stationcount": 2,
+    "variations": [
+      "ua"
+    ]
+  },
+  {
+    "name": "Upper sorbian",
+    "iso_639": "hsb",
+    "stationcount": 2,
+    "variations": [
+      "upper sorbian"
+    ]
+  },
+  {
+    "name": "Татарский",
+    "iso_639": null,
+    "stationcount": 2,
+    "variations": [
+      "татарский"
+    ]
+  },
+  {
+    "name": "10 additional languages",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "10 additional languages"
+    ]
+  },
+  {
+    "name": "111",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "111"
+    ]
+  },
+  {
+    "name": "128 brasil português",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "128 brasil português"
+    ]
+  },
+  {
+    "name": "16 other languages",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "16 other languages"
+    ]
+  },
+  {
+    "name": "17 addtional languages",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "17 addtional languages"
+    ]
+  },
+  {
+    "name": "Aave",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "aave"
+    ]
+  },
+  {
+    "name": "Afghan",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "afghan"
+    ]
+  },
+  {
+    "name": "Alquran",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "alquran"
+    ]
+  },
+  {
+    "name": "Amazigh",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "amazigh"
+    ]
+  },
+  {
+    "name": "Spanish",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "andaluz.español"
+    ]
+  },
+  {
+    "name": "Annang",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "annang"
+    ]
+  },
+  {
+    "name": "Anq",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "anq"
+    ]
+  },
+  {
+    "name": "Anserma",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "anserma"
+    ]
+  },
+  {
+    "name": "Apiaka",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "apiaka"
+    ]
+  },
+  {
+    "name": "Ar",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "ar"
+    ]
+  },
+  {
+    "name": "Astur-leonese",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "astur-leonese"
+    ]
+  },
+  {
+    "name": "Ateso",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "ateso"
+    ]
+  },
+  {
+    "name": "Australian indigenous",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "australian indigenous"
+    ]
+  },
+  {
+    "name": "Azer",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "azer"
+    ]
+  },
+  {
+    "name": "Azr",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "azr"
+    ]
+  },
+  {
+    "name": "Bearnese",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "bearnese"
+    ]
+  },
+  {
+    "name": "Bering aleut",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "bering aleut"
+    ]
+  },
+  {
+    "name": "Bohemian",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "bohemian"
+    ]
+  },
+  {
+    "name": "Bosn",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "bosn"
+    ]
+  },
+  {
+    "name": "Brasileiro",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "brasileiro"
+    ]
+  },
+  {
+    "name": "Bukharian",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "bukharian"
+    ]
+  },
+  {
+    "name": "Bulgarian",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "bulgaria"
+    ]
+  },
+  {
+    "name": "Cajun",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "cajun"
+    ]
+  },
+  {
+    "name": "Canada",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "canada"
+    ]
+  },
+  {
+    "name": "Capiznon",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "capiznon"
+    ]
+  },
+  {
+    "name": "Cassubian",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "cassubian"
+    ]
+  },
+  {
+    "name": "Chipewyan",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "chipewyan"
+    ]
+  },
+  {
+    "name": "Chuvash",
+    "iso_639": "cv",
+    "stationcount": 1,
+    "variations": [
+      "chuvash"
+    ]
+  },
+  {
+    "name": "Classical",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "classical"
+    ]
+  },
+  {
+    "name": "Coatian",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "coatian"
+    ]
+  },
+  {
+    "name": "Cochin",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "cochin"
+    ]
+  },
+  {
+    "name": "Cooperativa",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "cooperativa"
+    ]
+  },
+  {
+    "name": "Cornish",
+    "iso_639": "kw",
+    "stationcount": 1,
+    "variations": [
+      "cornish"
+    ]
+  },
+  {
+    "name": "Coronel oviedo",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "coronel oviedo"
+    ]
+  },
+  {
+    "name": "Corsu",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "corsu"
+    ]
+  },
+  {
+    "name": "Dari",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "dari"
+    ]
+  },
+  {
+    "name": "Dhivehi",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "dhivehi"
+    ]
+  },
+  {
+    "name": "Dialects",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "dialects"
+    ]
+  },
+  {
+    "name": "Dutch colombo",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "dutch colombo"
+    ]
+  },
+  {
+    "name": "Ebonics",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "ebonics"
+    ]
+  },
+  {
+    "name": "Estonian",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "eesti"
+    ]
+  },
+  {
+    "name": "Efik",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "efik"
+    ]
+  },
+  {
+    "name": "Egnlish",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "egnlish"
+    ]
+  },
+  {
+    "name": "Eight additional languages",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "eight additional languages"
+    ]
+  },
+  {
+    "name": "Eletrica",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "eletrica"
+    ]
+  },
+  {
+    "name": "Encarnación",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "encarnación"
+    ]
+  },
+  {
+    "name": "English and swahili",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "english and swahili"
+    ]
+  },
+  {
+    "name": "Esapa",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "esapa"
+    ]
+  },
+  {
+    "name": "Español in catalán",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "español in catalán"
+    ]
+  },
+  {
+    "name": "F",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "f"
+    ]
+  },
+  {
+    "name": "Fingallian",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "fingallian"
+    ]
+  },
+  {
+    "name": "Finland",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "finland"
+    ]
+  },
+  {
+    "name": "Fra",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "fra"
+    ]
+  },
+  {
+    "name": "Frysk",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "frysk"
+    ]
+  },
+  {
+    "name": "Fränkisch",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "fränkisch"
+    ]
+  },
+  {
+    "name": "Furlan",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "furlan"
+    ]
+  },
+  {
+    "name": "Gagana samoa",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "gagana samoa"
+    ]
+  },
+  {
+    "name": "Galaic–portuguese",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "galaic–portuguese"
+    ]
+  },
+  {
+    "name": "Gallego",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "gallego"
+    ]
+  },
+  {
+    "name": "Garifuna",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "garifuna"
+    ]
+  },
+  {
+    "name": "Gascon",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "gascon"
+    ]
+  },
+  {
+    "name": "Geopn",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "geopn"
+    ]
+  },
+  {
+    "name": "Germanhttps://stream.laut.fm/deutrockosterreich",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "germanhttps://stream.laut.fm/deutrockosterreich"
+    ]
+  },
+  {
+    "name": "Ghana",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "ghana"
+    ]
+  },
+  {
+    "name": "Gwich'in",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "gwich'in"
+    ]
+  },
+  {
+    "name": "Haiti creole",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "haiti creole"
+    ]
+  },
+  {
+    "name": "Hebrew",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "he"
+    ]
+  },
+  {
+    "name": "Hh",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "hh"
+    ]
+  },
+  {
+    "name": "Hindi english assamese",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "hindi english assamese"
+    ]
+  },
+  {
+    "name": "Hipster",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "hipster"
+    ]
+  },
+  {
+    "name": "Http://wdr-1live-live.icecast.wdr.de",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "http://wdr-1live-live.icecast.wdr.de"
+    ]
+  },
+  {
+    "name": "Hun",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "hun"
+    ]
+  },
+  {
+    "name": "Ibibio",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "ibibio"
+    ]
+  },
+  {
+    "name": "Ilokano",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "ilokano"
+    ]
+  },
+  {
+    "name": "Ilonggo",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "ilonggo"
+    ]
+  },
+  {
+    "name": "Inari sámi",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "inari sámi"
+    ]
+  },
+  {
+    "name": "Inuktituk",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "inuktituk"
+    ]
+  },
+  {
+    "name": "Inuvialuktun",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "inuvialuktun"
+    ]
+  },
+  {
+    "name": "Iraqi",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "iraqi"
+    ]
+  },
+  {
+    "name": "Iraqi turkmen",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "iraqi turkmen"
+    ]
+  },
+  {
+    "name": "IsiNdebele",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "isindebele"
+    ]
+  },
+  {
+    "name": "Xhosa",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "isixhosa"
+    ]
+  },
+  {
+    "name": "Jamaicaans-patois",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "jamaicaans-patois"
+    ]
+  },
+  {
+    "name": "Jamaican-patois",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "jamaican-patois"
+    ]
+  },
+  {
+    "name": "Juma",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "juma"
+    ]
+  },
+  {
+    "name": "Kachin",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "kachin"
+    ]
+  },
+  {
+    "name": "Kalaallisut",
+    "iso_639": "kl",
+    "stationcount": 1,
+    "variations": [
+      "kalaallisut"
+    ]
+  },
+  {
+    "name": "Kalaallusit",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "kalaallusit"
+    ]
+  },
+  {
+    "name": "Kamba",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "kamba"
+    ]
+  },
+  {
+    "name": "Kashmiri",
+    "iso_639": "ks",
+    "stationcount": 1,
+    "variations": [
+      "kashmiri"
+    ]
+  },
+  {
+    "name": "Malay",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "kelantanese malay"
+    ]
+  },
+  {
+    "name": "Keski-suomi",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "keski-suomi"
+    ]
+  },
+  {
+    "name": "Kikongo",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "kikongo"
+    ]
+  },
+  {
+    "name": "Kikuyu swahili",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "kikuyu swahili"
+    ]
+  },
+  {
+    "name": "Kinand",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "kinand"
+    ]
+  },
+  {
+    "name": "Kinyarwanda",
+    "iso_639": "rw",
+    "stationcount": 1,
+    "variations": [
+      "kinyarwanda"
+    ]
+  },
+  {
+    "name": "Kinyarwanda & kiswahili",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "kinyarwanda & kiswahili"
+    ]
+  },
+  {
+    "name": "Kirmanci",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "kirmanci"
+    ]
+  },
+  {
+    "name": "Kunama",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "kunama"
+    ]
+  },
+  {
+    "name": "Kupsabiny",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "kupsabiny"
+    ]
+  },
+  {
+    "name": "Ladin",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "ladin"
+    ]
+  },
+  {
+    "name": "Latvia",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "latvia"
+    ]
+  },
+  {
+    "name": "Lisu",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "lisu"
+    ]
+  },
+  {
+    "name": "Lower arrernte",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "lower arrernte"
+    ]
+  },
+  {
+    "name": "Lubwisi",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "lubwisi"
+    ]
+  },
+  {
+    "name": "Lugisu",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "lugisu"
+    ]
+  },
+  {
+    "name": "Lukhonzo",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "lukhonzo"
+    ]
+  },
+  {
+    "name": "Luo",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "luo"
+    ]
+  },
+  {
+    "name": "Magesh",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "magesh"
+    ]
+  },
+  {
+    "name": "Mandinka",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "mandinka"
+    ]
+  },
+  {
+    "name": "Manx",
+    "iso_639": "gv",
+    "stationcount": 1,
+    "variations": [
+      "manx"
+    ]
+  },
+  {
+    "name": "Masurian",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "masurian"
+    ]
+  },
+  {
+    "name": "Messapic",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "messapic"
+    ]
+  },
+  {
+    "name": "Minang",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "minang"
+    ]
+  },
+  {
+    "name": "Mixteco",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "mixteco"
+    ]
+  },
+  {
+    "name": "Moselle romance",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "moselle romance"
+    ]
+  },
+  {
+    "name": "Muromian",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "muromian"
+    ]
+  },
+  {
+    "name": "N",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "n"
+    ]
+  },
+  {
+    "name": "N/a",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "n/a"
+    ]
+  },
+  {
+    "name": "Navajo",
+    "iso_639": "nv",
+    "stationcount": 1,
+    "variations": [
+      "navajo"
+    ]
+  },
+  {
+    "name": "Nethe",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "nethe"
+    ]
+  },
+  {
+    "name": "New orleans louisiana",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "new orleans louisiana"
+    ]
+  },
+  {
+    "name": "Ngakarimojong",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "ngakarimojong"
+    ]
+  },
+  {
+    "name": "Noongar",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "noongar"
+    ]
+  },
+  {
+    "name": "Noongar aboriginal",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "noongar aboriginal"
+    ]
+  },
+  {
+    "name": "Noric",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "noric"
+    ]
+  },
+  {
+    "name": "Norn",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "norn"
+    ]
+  },
+  {
+    "name": "North slavey",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "north slavey"
+    ]
+  },
+  {
+    "name": "Northern manx",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "northern manx"
+    ]
+  },
+  {
+    "name": "Northern sámi",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "northern sámi"
+    ]
+  },
+  {
+    "name": "Nuxalk",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "nuxalk"
+    ]
+  },
+  {
+    "name": "Nyoongar",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "nyoongar"
+    ]
+  },
+  {
+    "name": "Nyungar",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "nyungar"
+    ]
+  },
+  {
+    "name": "Oilsjters",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "oilsjters"
+    ]
+  },
+  {
+    "name": "Old novgorod",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "old novgorod"
+    ]
+  },
+  {
+    "name": "Originarios",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "originarios"
+    ]
+  },
+  {
+    "name": "Oromo amharic somali",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "oromo amharic somali"
+    ]
+  },
+  {
+    "name": "Oscan",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "oscan"
+    ]
+  },
+  {
+    "name": "Pacifica multi ethnic",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "pacifica multi ethnic"
+    ]
+  },
+  {
+    "name": "Pali",
+    "iso_639": "pi",
+    "stationcount": 1,
+    "variations": [
+      "pali"
+    ]
+  },
+  {
+    "name": "Punjabi",
+    "iso_639": "pa",
+    "stationcount": 1,
+    "variations": [
+      "panjabi"
+    ]
+  },
+  {
+    "name": "Paraguay",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "paraguay"
+    ]
+  },
+  {
+    "name": "Pashto /urdu",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "pashto /urdu"
+    ]
+  },
+  {
+    "name": "Pazeh",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "pazeh"
+    ]
+  },
+  {
+    "name": "Philipsburg",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "philipsburg"
+    ]
+  },
+  {
+    "name": "Pigin",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "pigin"
+    ]
+  },
+  {
+    "name": "Polynesia",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "polynesia"
+    ]
+  },
+  {
+    "name": "Portu",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "portu"
+    ]
+  },
+  {
+    "name": "Portugués",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "portugués"
+    ]
+  },
+  {
+    "name": "Qirimtatar",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "qirimtatar"
+    ]
+  },
+  {
+    "name": "Quiché",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "quiché"
+    ]
+  },
+  {
+    "name": "Québecois",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "québecois"
+    ]
+  },
+  {
+    "name": "R",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "r"
+    ]
+  },
+  {
+    "name": "Runyankole",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "runyankole"
+    ]
+  },
+  {
+    "name": "Russian/yakut",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "russian/yakut"
+    ]
+  },
+  {
+    "name": "S",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "s"
+    ]
+  },
+  {
+    "name": "Saba",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "saba"
+    ]
+  },
+  {
+    "name": "Saho",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "saho"
+    ]
+  },
+  {
+    "name": "Saint lucian creole",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "saint lucian creole"
+    ]
+  },
+  {
+    "name": "San miguel",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "san miguel"
+    ]
+  },
+  {
+    "name": "Satanic",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "satanic"
+    ]
+  },
+  {
+    "name": "Shimaoré",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "shimaoré"
+    ]
+  },
+  {
+    "name": "Shona",
+    "iso_639": "sn",
+    "stationcount": 1,
+    "variations": [
+      "shona"
+    ]
+  },
+  {
+    "name": "Silesian",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "silesian"
+    ]
+  },
+  {
+    "name": "Skolt sámi",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "skolt sámi"
+    ]
+  },
+  {
+    "name": "South asian languages",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "south asian languages"
+    ]
+  },
+  {
+    "name": "South slavey",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "south slavey"
+    ]
+  },
+  {
+    "name": "Span",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "span"
+    ]
+  },
+  {
+    "name": "Spani",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "spani"
+    ]
+  },
+  {
+    "name": "Spanish saba",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "spanish saba"
+    ]
+  },
+  {
+    "name": "Standard moroccan amazigh",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "standard moroccan amazigh"
+    ]
+  },
+  {
+    "name": "Sundanes",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "sundanes"
+    ]
+  },
+  {
+    "name": "Sundanese",
+    "iso_639": "su",
+    "stationcount": 1,
+    "variations": [
+      "sundanese"
+    ]
+  },
+  {
+    "name": "Swabian",
+    "iso_639": "swg",
+    "stationcount": 1,
+    "variations": [
+      "swabian"
+    ]
+  },
+  {
+    "name": "Swahili and english",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "swahili and english"
+    ]
+  },
+  {
+    "name": "Swedish",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "swe"
+    ]
+  },
+  {
+    "name": "Swiss",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "swiss"
+    ]
+  },
+  {
+    "name": "Sámi",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "sámi"
+    ]
+  },
+  {
+    "name": "Tachelhite",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "tachelhite"
+    ]
+  },
+  {
+    "name": "Tahitian",
+    "iso_639": "ty",
+    "stationcount": 1,
+    "variations": [
+      "tahitian"
+    ]
+  },
+  {
+    "name": "Tiel",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "tiel"
+    ]
+  },
+  {
+    "name": "Tlapaneco",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "tlapaneco"
+    ]
+  },
+  {
+    "name": "Tlicho",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "tlicho"
+    ]
+  },
+  {
+    "name": "Tshiluba",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "tshiluba"
+    ]
+  },
+  {
+    "name": "Tule kaweah yokuts",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "tule kaweah yokuts"
+    ]
+  },
+  {
+    "name": "Ukrainian",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "ucrânia"
+    ]
+  },
+  {
+    "name": "Upper chinook",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "upper chinook"
+    ]
+  },
+  {
+    "name": "Urhobo",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "urhobo"
+    ]
+  },
+  {
+    "name": "Us",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "us"
+    ]
+  },
+  {
+    "name": "Usa",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "usa"
+    ]
+  },
+  {
+    "name": "Uzbek،russian",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "uzbek،russian"
+    ]
+  },
+  {
+    "name": "Various filipino languages",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "various filipino languages"
+    ]
+  },
+  {
+    "name": "Various languages",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "various languages"
+    ]
+  },
+  {
+    "name": "Yupik",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "yupik"
+    ]
+  },
+  {
+    "name": "Zaiwa",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "zaiwa"
+    ]
+  },
+  {
+    "name": "Zeelandic",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "zeelandic"
+    ]
+  },
+  {
+    "name": "Неизвестен",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "неизвестен"
+    ]
+  },
+  {
+    "name": "Осетинский",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "осетинский"
+    ]
+  },
+  {
+    "name": "Церковнославянский",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "церковнославянский"
+    ]
+  },
+  {
+    "name": "Чукотский",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "чукотский"
+    ]
+  },
+  {
+    "name": "師傅傅",
+    "iso_639": null,
+    "stationcount": 1,
+    "variations": [
+      "師傅傅"
+    ]
+  }
+]
